@@ -1,10 +1,3 @@
----
-title: "READ ME & CODE BOOK"
-author: "Applesauce"
-date: "Sunday, November 23, 2014"
-output: html_document
----
-
 ##Introduction
 The script "run_analysis.R" is used to clean and process a set of data collected from Samsung Galaxy S accellerometers while participants perform various activities.
 
